@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/softfab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jul 2015 16:32:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jul 2015 16:32:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/softfab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Computer Copy Fashion remix project from...]]></title>
+            <description><![CDATA[<article><h1>Computer Copy Fashion remix project from...</h1><p>Computer Copy Fashion remix project from gokinjo-monozukuri captures existing fashion with 3D photogrammetry, processed into polygons with modelling software, and put together onto digitally printed fabric - video embedded below: The process of "Computed Copy" is as follows. First, scan the garment and get the 3D images of it.</p><img src="http://31.media.tumblr.com/c58c7f13a5af1635111d9b7241497f89/tumblr_naxrr2bzlU1qav3uso5_r1_500.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/95862529996/computer-copy-fashion-remix-project-from</link>
+            <guid isPermaLink="false">60a570ac-4c88-4a52-9957-188281daa615</guid>
+            <pubDate>Tue, 28 Jul 2015 16:32:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Time to rethink values x fashion. https://youtu.be/VdLf4fihP78 #softfab</p>]]></description>
