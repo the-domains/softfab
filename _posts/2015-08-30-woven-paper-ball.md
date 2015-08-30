@@ -28,9 +28,10 @@ app_links:
     app_name: Flickr
 isBasedOnUrl: 'https://www.flickr.com/photos/forresto/15761075487/'
 title: Woven paper ball
-datePublished: '2015-08-30T02:13:58.574Z'
+datePublished: '2015-08-30T02:14:03.103Z'
 sourcePath: _posts/2015-08-30-woven-paper-ball.md
 published: true
+dateModified: '2015-08-30T02:13:58.574Z'
 _type: Photograph
 _context: 'http://schema.org'
 
