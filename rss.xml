@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Untitled RSS Feed]]></title>
-        <description><![CDATA[Untitled RSS Feed]]></description>
+        <title><![CDATA[#softfab]]></title>
+        <description><![CDATA[#softfab]]></description>
         <link>https://thegrid.ai/softfab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jul 2015 06:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2015 02:14:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/softfab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Woven paper ball]]></title>
+            <description><![CDATA[<article><h1>Woven paper ball</h1><img src="https://farm8.staticflickr.com/7518/15761075487_202c5aaa59_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/forresto/15761075487/</link>
+            <guid isPermaLink="false">a37f6d2e-f761-4f17-8b2d-2be73b37f8df</guid>
+            <pubDate>Sun, 30 Aug 2015 02:13:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3D Weaving Blurs the Lines Between Fashion and Sculpture | The Creators Project]]></title>
             <description><![CDATA[<article><h1>3D Weaving Blurs the Lines Between Fashion and Sculpture | The Creators Project</h1><p>All images courtesy the desinger If 2014 was the year of the 3D-printed , maybe 2015 will be the year of hybridizing 3D printing with traditional modes of manufacturing and production. Jim Chen-Hsiang Hu, a graduate of Central St.</p><img src="https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/0f59a4de374ead6181841a936b60d1fb.jpg"></article>]]></description>
