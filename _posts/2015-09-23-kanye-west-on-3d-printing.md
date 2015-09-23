@@ -5,19 +5,21 @@ starred: false
 keywords: []
 description: ''
 title: Kanye West on 3d Printing
-dateModified: '2015-09-23T12:42:01.628Z'
+dateModified: '2015-09-23T14:48:27.524Z'
 tags:
-  - ''
+  - fear
+  - openness
+datePublished: '2015-09-23T14:49:04.594Z'
+sourcePath: _posts/2015-09-23-kanye-west-on-3d-printing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-datePublished: '2015-09-23T12:42:17.030Z'
-sourcePath: _posts/2015-09-23-kanye-west-on-3d-printing.md
-published: true
-_type: Blurb
+url: kanye-west-on-3d-printing/index.html
+_type: Article
 
 ---
 Kanye West [on 3d Printing][0]:
