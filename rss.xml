@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 04:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 18:24:38 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Features - Embroidermodder]]></title>
+            <description><![CDATA[<article><h1>Features - Embroidermodder</h1><p>If you've got programming skills and there is a feature that isn't currently available that you absolutely cannot live without, you have the capability to create your own custom commands for Embroidermodder 2. We provide an QtScript API which exposes various application functionality so that it is possible to extend the application without requiring a new release.</p><img src="http://embroidermodder.org/images/features-measure-1.png"></article>]]></description>
+            <link>http://embroidermodder.org/features.html</link>
+            <guid isPermaLink="false">7e55b700-81b1-4c8c-825a-3b4b083f1fea</guid>
+            <pubDate>Wed, 21 Oct 2015 18:23:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[about]]></title>
             <description><![CDATA[<h1>about</h1>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/forresto/15761075487/</link>
             <guid isPermaLink="false">a37f6d2e-f761-4f17-8b2d-2be73b37f8df</guid>
             <pubDate>Sun, 30 Aug 2015 02:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3D Weaving Blurs the Lines Between Fashion and Sculpture | The Creators Project]]></title>
-            <description><![CDATA[<article><h1>3D Weaving Blurs the Lines Between Fashion and Sculpture | The Creators Project</h1><p>All images courtesy the desinger If 2014 was the year of the 3D-printed , maybe 2015 will be the year of hybridizing 3D printing with traditional modes of manufacturing and production. Jim Chen-Hsiang Hu, a graduate of Central St.</p><img src="https://thecreatorsproject-images.vice.com/content-images/contentimage/no-slug/0f59a4de374ead6181841a936b60d1fb.jpg"></article>]]></description>
-            <link>http://thecreatorsproject.vice.com/blog/3d-weaving-blurs-the-lines-between-fashion-and-sculpture?utm_source=tcptwitteranz</link>
-            <guid isPermaLink="false">55d57897-f7cc-447f-8240-6fa218ea2a21</guid>
-            <pubDate>Thu, 30 Jul 2015 06:23:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
