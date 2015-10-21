@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 04:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 04:15:14 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[about]]></title>
+            <description><![CDATA[<h1>about</h1>]]></description>
+            <link>http://softfab.org/about/index.html</link>
+            <guid isPermaLink="false">a0a94be6-2ab6-4a0e-887a-1b692aa76592</guid>
+            <pubDate>Wed, 21 Oct 2015 04:13:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Sweaters as a Service" by Amy Wibowo]]></title>
             <description><![CDATA[<article><h1>"Sweaters as a Service" by Amy Wibowo</h1><p>super nintento knitting machine dream!</p><img src="https://i.ytimg.com/vi/8xoowbbzxTA/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://thecreatorsproject.vice.com/blog/3d-weaving-blurs-the-lines-between-fashion-and-sculpture?utm_source=tcptwitteranz</link>
             <guid isPermaLink="false">55d57897-f7cc-447f-8240-6fa218ea2a21</guid>
             <pubDate>Thu, 30 Jul 2015 06:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Computer Copy Fashion remix project from...]]></title>
-            <description><![CDATA[<article><h1>Computer Copy Fashion remix project from...</h1><p>Computer Copy Fashion remix project from gokinjo-monozukuri captures existing fashion with 3D photogrammetry, processed into polygons with modelling software, and put together onto digitally printed fabric - video embedded below: The process of "Computed Copy" is as follows. First, scan the garment and get the 3D images of it.</p><img src="http://31.media.tumblr.com/c58c7f13a5af1635111d9b7241497f89/tumblr_naxrr2bzlU1qav3uso5_r1_500.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/95862529996/computer-copy-fashion-remix-project-from</link>
-            <guid isPermaLink="false">60a570ac-4c88-4a52-9957-188281daa615</guid>
-            <pubDate>Tue, 28 Jul 2015 16:32:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
