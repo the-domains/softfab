@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[#softfab]]></title>
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Oct 2015 03:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 04:07:06 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>super nintento knitting machine dream!</p>]]></description>
+            <title><![CDATA["Sweaters as a Service" by Amy Wibowo]]></title>
+            <description><![CDATA[<article><h1>"Sweaters as a Service" by Amy Wibowo</h1><p>super nintento knitting machine dream!</p><img src="https://i.ytimg.com/vi/8xoowbbzxTA/hqdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/8xoowbbzxTA</link>
             <guid isPermaLink="false">9f2f4290-159a-462a-8f86-b41582032661</guid>
-            <pubDate>Fri, 02 Oct 2015 03:12:18 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2015 04:07:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[TurtleStitch - Index]]></title>
