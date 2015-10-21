@@ -1,6 +1,7 @@
 name: '#softfab'
 favicon: null
 layout_spectrum: 0.73207
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -13,4 +14,10 @@ opengraph:
   image: null
   type: null
   appId: null
+color:
+  brandColors: []
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
