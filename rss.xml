@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 05:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 17:53:08 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sweet generative clothing collab by @Sosolimited, @liasomething, @p5xjs + @printalloverme https://paom.com/profiles/processing/#/profile-apps ... pic.twitter.com/DNN7bW25tD</p>]]></description>
+            <link>https://twitter.com/nervous_jessica/status/661605925384384512/photo/1</link>
+            <guid isPermaLink="false">4117c87a-f714-413b-a95b-a4a381bf4244</guid>
+            <pubDate>Thu, 05 Nov 2015 17:52:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Parsing Sewing Patterns into 3D Garments, SIGGRAPH 2013]]></title>
             <description><![CDATA[<article><h1>Parsing Sewing Patterns into 3D Garments, SIGGRAPH 2013</h1><p>Project Page: http://vis.berkeley.edu/papers/clopat/ We present techniques for automatically parsing existing sewing patterns and converting them into 3D garment models. Our parser takes a sewing pattern in PDF format as input and starts by extracting the set of panels and styling elements (e.g. darts, pleats and hemlines) contained in the pattern.</p><img src="https://i.ytimg.com/vi/iCsqxeBImW8/hqdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/128411969836/mirror-mirror-augmented-tech-project-from-mydesign</link>
             <guid isPermaLink="false">790a59b1-914f-4472-8137-d99bf4830f5e</guid>
             <pubDate>Mon, 14 Sep 2015 19:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jannick Deslauriers makes light weight sculptures using textile materials. See more on the Hi-Fructose Tumblr. #art #sculpture #hifructose]]></title>
-            <description><![CDATA[<article><h1>Jannick Deslauriers makes light weight sculptures using textile materials. See more on the Hi-Fructose Tumblr. #art #sculpture #hifructose</h1><p>textile sculpture</p><img src="https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e15/11875504_412101298999436_1316798994_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/7GkW3QxWSu/</link>
-            <guid isPermaLink="false">4866fa42-8f2f-4752-8feb-c44fdf0d3d2e</guid>
-            <pubDate>Thu, 03 Sep 2015 03:13:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
