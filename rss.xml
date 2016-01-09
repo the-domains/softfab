@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 21:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 04:46:48 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[geist.xyz]]></title>
+            <description><![CDATA[<article><h1>geist.xyz</h1><p>geist.xyz is a different kind of fashion project: what looks at first glance as an eccentric tangle of simulated dance and a color coordinated tumblr exploration turns out to be a study of handcrafted algorithmic textiles and procedural surfaces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f81f967d73da917e877c5a6db1481f678897325c.jpg"></article>]]></description>
+            <link>https://vimeo.com/150824660</link>
+            <guid isPermaLink="false">4d23e41e-22df-41e7-bb76-92712ab6c5b6</guid>
+            <pubDate>Sat, 09 Jan 2016 04:46:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Animated horse quilt]]></title>
             <description><![CDATA[<article><h1>Animated horse quilt</h1><img src="http://static1.squarespace.com/static/537b8325e4b065b57c13cdef/559ca991e4b03b77d9cab585/55427fdde4b0170199ecd2a8/1430421483049/Horse.gif?format=500w"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://embroidermodder.org/features.html</link>
             <guid isPermaLink="false">7e55b700-81b1-4c8c-825a-3b4b083f1fea</guid>
             <pubDate>Wed, 21 Oct 2015 18:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[about]]></title>
-            <description><![CDATA[<h1>about</h1>]]></description>
-            <link>http://softfab.org/about/index.html</link>
-            <guid isPermaLink="false">a0a94be6-2ab6-4a0e-887a-1b692aa76592</guid>
-            <pubDate>Wed, 21 Oct 2015 04:13:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
