@@ -4,8 +4,22 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 04:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 15:50:39 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jack000/SVGnest]]></title>
+            <description><![CDATA[<article><h1>Jack000/SVGnest</h1><p>SVGNest: A browser-based vector nesting tool. (requires SVG and webworker support). Mobile warning: running the demo is CPU intensive. references (PDF): Given container and a set of shapes. eg: a square piece of material and letters to be laser-cut: We wish to use as few containers as possible to hold all the shapes, or simply reduce the material usage in a single container.</p><img src="https://camo.githubusercontent.com/1156f6f8323c52dea2981604dd780b02add19e86/687474703a2f2f7376676e6573742e636f6d2f6769746875622f6e66702e706e67"></article>]]></description>
+            <link>https://github.com/Jack000/SVGnest</link>
+            <guid isPermaLink="false">0d05a752-d534-4001-b9ba-d8a892380962</guid>
+            <pubDate>Sun, 17 Jan 2016 15:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Making space (and a business), one thread at a time]]></title>
+            <description><![CDATA[<article><h1>Making space (and a business), one thread at a time</h1><p>I met with Samira Boon earlier this year at her studio in Amsterdam, while on a trip around Europe and Asia to talk with people who are carrying the profession of architecture in new directions. I admit this is a bit of a red herring, because practice is always changing, but we are now witnessing...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e68d0720deb8188d0c225fbfe02d4e91ee37b545.jpg"></article>]]></description>
+            <link>http://archinect.com/features/article/145190627/making-space-and-a-business-one-thread-at-a-time</link>
+            <guid isPermaLink="false">ee1855cb-c503-459c-b437-ddf6686c07db</guid>
+            <pubDate>Thu, 14 Jan 2016 12:04:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[geist.xyz]]></title>
             <description><![CDATA[<article><h1>geist.xyz</h1><p>geist.xyz is a different kind of fashion project: what looks at first glance as an eccentric tangle of simulated dance and a color coordinated tumblr exploration turns out to be a study of handcrafted algorithmic textiles and procedural surfaces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f81f967d73da917e877c5a6db1481f678897325c.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/132500126581/paom-processing-foundation-custom-digital-print</link>
             <guid isPermaLink="false">35c5dc0c-9e67-41ae-950b-211c0df36595</guid>
             <pubDate>Thu, 05 Nov 2015 20:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parsing Sewing Patterns into 3D Garments, SIGGRAPH 2013]]></title>
-            <description><![CDATA[<article><h1>Parsing Sewing Patterns into 3D Garments, SIGGRAPH 2013</h1><p>Project Page: http://vis.berkeley.edu/papers/clopat/ We present techniques for automatically parsing existing sewing patterns and converting them into 3D garment models. Our parser takes a sewing pattern in PDF format as input and starts by extracting the set of panels and styling elements (e.g. darts, pleats and hemlines) contained in the pattern.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db5a44a269b6a05f4db95936dcd857b998102a65.jpg"></article>]]></description>
-            <link>https://youtu.be/iCsqxeBImW8</link>
-            <guid isPermaLink="false">0967e772-4c7f-4551-bd13-56358382ab88</guid>
-            <pubDate>Fri, 23 Oct 2015 05:54:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Features - Embroidermodder]]></title>
-            <description><![CDATA[<article><h1>Features - Embroidermodder</h1><p>If you've got programming skills and there is a feature that isn't currently available that you absolutely cannot live without, you have the capability to create your own custom commands for Embroidermodder 2. We provide an QtScript API which exposes various application functionality so that it is possible to extend the application without requiring a new release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/832b73c1994052c04ceccd100940f8badc770674.png"></article>]]></description>
-            <link>http://embroidermodder.org/features.html</link>
-            <guid isPermaLink="false">7e55b700-81b1-4c8c-825a-3b4b083f1fea</guid>
-            <pubDate>Wed, 21 Oct 2015 18:23:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
