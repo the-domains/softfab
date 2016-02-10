@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 00:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 20:02:10 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How a sewing machine works (gif edition)]]></title>
+            <description><![CDATA[<article><h1>How a sewing machine works (gif edition)</h1><p>An ancient mystery revealed. Wikipedia on Lockstitching: The machine lowers the threaded needle through the cloth into the bobbin area, where a rotating hook (or other hooking mechanism) catches the upper thread at the point just after it goes through the needle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12ea21ff6d2007504d8286232f7bbdd6ecf6b328.gif"></article>]]></description>
+            <link>http://boingboing.net/2016/02/10/how-a-sewing-machine-works-gi.html#more-447485</link>
+            <guid isPermaLink="false">ebf10ac4-3664-4df8-96eb-94f50e5e499c</guid>
+            <pubDate>Wed, 10 Feb 2016 20:01:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Curious About The Future Of Fashion &amp; LifeStyleTech Subscribe&colon;http&colon;&sol;&sol;bit&period;ly&sol;SignUpGo A Newsletter When YOU Want It" src="https://pbs.twimg.com/media/Cas7y23WEAASuP5.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/135274665451/sweaterify-webtoy-by-mariko-kosaka-can-turn-images</link>
             <guid isPermaLink="false">b82ec36d-6dd2-488e-a238-c2ab208049f2</guid>
             <pubDate>Thu, 17 Dec 2015 18:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machine FormsClothing label whose graphi...]]></title>
-            <description><![CDATA[<article><h1>Machine FormsClothing label whose graphi...</h1><p>Machine FormsClothing label whose graphic designs employ generative coding processes:Machine Forms explore the possibilities of using code to design and create forms directly, with minimal human intervention.Machine Forms takes inspiration from Sol Lewitt's instruction-based art where the artist or designer conceptualises and provides specific instructions for teams of people to</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc307a60ce31a995e1a1b8eb9bb40e896d9b9cd7.jpg"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/134871073921/machine-forms-clothing-label-whose-graphic-designs</link>
-            <guid isPermaLink="false">ef4cbc58-01cc-46c9-93d6-f7884bc8e4b4</guid>
-            <pubDate>Sat, 12 Dec 2015 06:52:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
