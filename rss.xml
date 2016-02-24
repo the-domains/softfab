@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 15:55:25 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Yesterdays &num;Sketchnote of &commat;nervous&lowbar;jessica &apos;s inspiring talk &num;FITCAmsterdam" src="https://pbs.twimg.com/media/Cb5StwHW8AAbyN_.jpg:large">]]></description>
+            <link>https://twitter.com/inge_nahuis/status/702089538034909184</link>
+            <guid isPermaLink="false">5b5cebf0-88c5-4f22-9a0f-f7e2de5b5f8f</guid>
+            <pubDate>Wed, 24 Feb 2016 15:53:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Artists and designers&comma; bring your wild ideas to life with &commat;printalloverme&apos;s new fund http&colon;&sol;&sol;hntd&period;ch&sol;21ntGpB" src="https://pbs.twimg.com/media/Cb9_6pOXEAAx6V3.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>http://archinect.com/features/article/145190627/making-space-and-a-business-one-thread-at-a-time</link>
             <guid isPermaLink="false">ee1855cb-c503-459c-b437-ddf6686c07db</guid>
             <pubDate>Thu, 14 Jan 2016 12:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[geist.xyz]]></title>
-            <description><![CDATA[<article><h1>geist.xyz</h1><p>geist.xyz is a different kind of fashion project: what looks at first glance as an eccentric tangle of simulated dance and a color coordinated tumblr exploration turns out to be a study of handcrafted algorithmic textiles and procedural surfaces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c8895ad371769daabcaf02cb225cb1264558ef0.jpg"></article>]]></description>
-            <link>https://vimeo.com/150824660</link>
-            <guid isPermaLink="false">4d23e41e-22df-41e7-bb76-92712ab6c5b6</guid>
-            <pubDate>Sat, 09 Jan 2016 04:46:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
