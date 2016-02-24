@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 06:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 15:53:50 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Artists and designers&comma; bring your wild ideas to life with &commat;printalloverme&apos;s new fund http&colon;&sol;&sol;hntd&period;ch&sol;21ntGpB" src="https://pbs.twimg.com/media/Cb9_6pOXEAAx6V3.jpg:large">]]></description>
+            <link>https://twitter.com/coolhunting/status/702420712573804544</link>
+            <guid isPermaLink="false">80d6c060-bb8c-460d-a23f-ee0d11699e7f</guid>
+            <pubDate>Wed, 24 Feb 2016 15:53:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="If you had a fashion magazine made for bots&comma; by bots&comma; what would you name it&quest; &period;&period;just curious&comma; no reason&period;&period;" src="https://pbs.twimg.com/media/CbeX5ZdUsAEEaJe.png:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/150824660</link>
             <guid isPermaLink="false">4d23e41e-22df-41e7-bb76-92712ab6c5b6</guid>
             <pubDate>Sat, 09 Jan 2016 04:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animated horse quilt]]></title>
-            <description><![CDATA[<article><h1>Animated horse quilt</h1><img src="http://static1.squarespace.com/static/537b8325e4b065b57c13cdef/559ca991e4b03b77d9cab585/55427fdde4b0170199ecd2a8/1430421483049/Horse.gif?format=500w"></article>]]></description>
-            <link>http://home.theodoregray.com/quilt-products/animated-horse-quilt</link>
-            <guid isPermaLink="false">67243aa9-7fdd-480a-80eb-330153121a24</guid>
-            <pubDate>Fri, 08 Jan 2016 21:51:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
