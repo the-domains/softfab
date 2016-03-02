@@ -4,11 +4,18 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 14:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 20:46:49 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="5womenartists 3&sol;4&period; Margaret and Christine Wertheim Math&comma;art&comma;bio in the Crochet Coral Reef http&colon;&sol;&sol;crochetcoralreef&period;org&sol;" src="https://pbs.twimg.com/media/Cckd-8YUAAAdeZm.jpg:large">]]></description>
+            <link>https://twitter.com/GalaxyKate/status/705127784306208772</link>
+            <guid isPermaLink="false">43bdb2c8-3248-4d4d-91b2-a1d97701068b</guid>
+            <pubDate>Wed, 02 Mar 2016 20:46:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amazon Selling Its Own Clothes Actually Makes a Lot of Sense]]></title>
-            <description><![CDATA[<article><h1>Amazon Selling Its Own Clothes Actually Makes a Lot of Sense</h1><p>No. </p><img src="http://www.wired.com/wp-content/uploads/2016/02/amazon-fashion-AP_787315837920-1200x630-e1456450338395.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Amazon Selling Its Own Clothes Actually Makes a Lot of Sense</h1><p>No. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d154496ca37c39300e630528e5c0fc5b98744a.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/02/amazon-fashion-private-label-brands/</link>
             <guid isPermaLink="false">57f22acf-f26d-424b-927b-38ca5a433b6b</guid>
             <pubDate>Wed, 02 Mar 2016 14:16:59 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/GalaxyKate/status/700195280235278336</link>
             <guid isPermaLink="false">3027822a-a47c-4f80-a74b-c11bf9ba954e</guid>
             <pubDate>Thu, 18 Feb 2016 06:23:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Cindy Sherman's Street Style Satire, the Joke's on Her]]></title>
-            <description><![CDATA[<article><h1>In Cindy Sherman's Street Style Satire, the Joke's on Her</h1><p>Chameleonic photographer Cindy Sherman is featured in March's Harper's Bazaar in a send-up of street style Instagrammers that makes both the artist and the magazine look out of date and tone deaf.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2c64e2f5dc142139c77494dffbe3111806b79af.jpg"></article>]]></description>
-            <link>http://hyperallergic.com/275150/in-cindy-shermans-street-style-satire-the-jokes-on-her/</link>
-            <guid isPermaLink="false">745f4e26-9047-47b7-9c9f-46beb5a108ca</guid>
-            <pubDate>Fri, 12 Feb 2016 02:40:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
