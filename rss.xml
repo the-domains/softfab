@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 01:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 14:18:10 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Amazon Selling Its Own Clothes Actually Makes a Lot of Sense]]></title>
+            <description><![CDATA[<article><h1>Amazon Selling Its Own Clothes Actually Makes a Lot of Sense</h1><p>No. </p><img src="http://www.wired.com/wp-content/uploads/2016/02/amazon-fashion-AP_787315837920-1200x630-e1456450338395.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/02/amazon-fashion-private-label-brands/</link>
+            <guid isPermaLink="false">57f22acf-f26d-424b-927b-38ca5a433b6b</guid>
+            <pubDate>Wed, 02 Mar 2016 14:16:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rschamp/schamp-origami]]></title>
             <description><![CDATA[<article><h1>rschamp/schamp-origami</h1><p>schamp-origami - A place to keep crease patterns</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bd6e127d39a58156f9a7e43aaae71206d99b2df.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://hyperallergic.com/275150/in-cindy-shermans-street-style-satire-the-jokes-on-her/</link>
             <guid isPermaLink="false">745f4e26-9047-47b7-9c9f-46beb5a108ca</guid>
             <pubDate>Fri, 12 Feb 2016 02:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iDummyA robotic mannequin designed to cr...]]></title>
-            <description><![CDATA[<article><h1>iDummyA robotic mannequin designed to cr...</h1><p>iDummyA robotic mannequin designed to create and model clothing, altering its form for different body shapes: i.Dummy, revolutionary physical fitting avatar enabling users to adjust and achieve over hundreds of human body measurements and shapes with just few clicks on computer.Complicated and meticulous mechanical structures comprising over 1000 parts are built and constructed inside i.Dummy to achieve immediate, accurate and reliable i.Dummy measurements.Body panels are designed by professionals based on years of human body researches over worldwide population.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37e4016b459f46a504775eb2df02b626fa397176.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/139067579061/idummy-a-robotic-mannequin-designed-to-create-and</link>
-            <guid isPermaLink="false">beeea668-3e96-4244-9007-2d3e9aed64eb</guid>
-            <pubDate>Thu, 11 Feb 2016 01:07:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
