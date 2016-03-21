@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 16:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 20:48:18 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Body Labs increases 3D body modeling power with acquisition of U.S. patents and licenses http://www.3ders.org/articles/20160321-body-labs-increases-3d-scanning-power-with-acquisition-of-patents-licenses.html ..." src="https://pbs.twimg.com/media/CeGHyLsW4AINzB2.jpg:large">]]></description>
+            <link>https://twitter.com/3dersorg/status/711999513079189504</link>
+            <guid isPermaLink="false">131ae1f5-1208-48f4-b439-8bd1977254ed</guid>
+            <pubDate>Mon, 21 Mar 2016 20:47:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BucketFeet]]></title>
             <description><![CDATA[<article><h1>BucketFeet</h1><p>BucketFeet exists to connect people through art. A different artist designed every shoe we make to create products that tell a story.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/733696f93d8feee092d5fa95ad0722f146508692.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/woollaa/status/701742951890886656</link>
             <guid isPermaLink="false">797f5b2c-b03f-4443-9c15-ef11ab888b28</guid>
             <pubDate>Sat, 27 Feb 2016 22:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Jacquard Loom &equals; Punch Card Textiles 1801 CODE &colon;&colon; TEXTILE &colon;&colon; FASHION - &commat;nervous&lowbar;jessica &commat;FITC &num;FITCAmsterdam" src="https://pbs.twimg.com/media/Cb05iL8WAAAYSUO.jpg:large">]]></description>
-            <link>https://twitter.com/agentFin/status/701780404135661569</link>
-            <guid isPermaLink="false">c9523781-ebe6-4f2b-a965-499ecee1f0e0</guid>
-            <pubDate>Wed, 24 Feb 2016 15:55:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
