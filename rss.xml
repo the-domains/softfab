@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 02:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 13:43:46 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Short video on 3D scanning the @BaltSymphony musicians for personalized performance garments https://www.facebook.com/BSOmusic/videos/10153932409749019/ ..." src="https://pbs.twimg.com/media/CelyjpgW8AAa_Xp.jpg:large">]]></description>
+            <link>https://twitter.com/dirdim/status/714227973268901888</link>
+            <guid isPermaLink="false">ad7a22c3-966f-4b2f-9187-e076dff0b4e2</guid>
+            <pubDate>Sat, 02 Apr 2016 13:43:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Showing PROXYBODY as part of &apos;Design my Privacy&apos; opening tonight @z33be in Hasselt @printalloverme @alexicon3000" src="https://pbs.twimg.com/media/CeewOsWWsAAR-0Y.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/nervous_system/status/704362215076405248</link>
             <guid isPermaLink="false">ba8a590f-13f9-4c05-ac5a-92aa4488c0ef</guid>
             <pubDate>Wed, 02 Mar 2016 01:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;woollaa&colon; a &quot;&num;Generative Fashion Design App&quot;&comma; to mass customize knitwear&period; https&colon;&sol;&sol;woollaa&period;com&sol;" src="https://pbs.twimg.com/media/Cb0YREcWwAYoQ7V.png:large">]]></description>
-            <link>https://twitter.com/samim/status/701744212799307776</link>
-            <guid isPermaLink="false">76d12e98-3b39-4724-b6cd-af6357fba4ce</guid>
-            <pubDate>Sat, 27 Feb 2016 22:11:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
