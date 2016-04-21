@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 13:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 18:50:40 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OY -"A New Planet Is Born"]]></title>
+            <description><![CDATA[<article><h1>OY -"A New Planet Is Born"</h1><p>"A New Planet Is Born" is the first excerpt from "Space Diaspora", the forthcoming new album by OY (out in September 2016) Available on iTunes : http://smarturl.it/anpb_itunes Live dates: http://www.oy-music.com/tour Imagery based on original art work "Void Season", courtesy of Zeitguised © 2016</p></article>]]></description>
+            <link>https://vimeo.com/157991915</link>
+            <guid isPermaLink="false">078616a3-b833-459c-aaa2-14bd78123f92</guid>
+            <pubDate>Thu, 21 Apr 2016 18:49:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Short video on 3D scanning the @BaltSymphony musicians for personalized performance garments https://www.facebook.com/BSOmusic/videos/10153932409749019/ ..." src="https://pbs.twimg.com/media/CelyjpgW8AAa_Xp.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://github.com/rschamp/schamp-origami</link>
             <guid isPermaLink="false">8880f846-afec-4865-9f11-c2265e7b8457</guid>
             <pubDate>Wed, 02 Mar 2016 01:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Kinematic Petals Dress debuts &commat;mfaboston&apos;s &num;techstyle exhibition http&colon;&sol;&sol;n-e-r-v-o-u-s&period;com&sol;blog&sol;&quest;p&equals;7162" src="https://pbs.twimg.com/media/CcZliX4W4AAKWyA.jpg:large">]]></description>
-            <link>https://twitter.com/nervous_system/status/704362215076405248</link>
-            <guid isPermaLink="false">ba8a590f-13f9-4c05-ac5a-92aa4488c0ef</guid>
-            <pubDate>Wed, 02 Mar 2016 01:30:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
