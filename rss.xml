@@ -4,11 +4,18 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 18:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 14:56:12 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="@BodyLabsInc #CreativeTechWeek2016pic.twitter.com/3zsDaV2me5" src="https://pbs.twimg.com/media/ChjLnVwWIAQQCwG.jpg:large">]]></description>
+            <link>https://twitter.com/Flexi23/status/727555256951906304</link>
+            <guid isPermaLink="false">5994e203-6fad-405b-b68e-9aa6bbcb13af</guid>
+            <pubDate>Wed, 04 May 2016 14:55:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[OY -"A New Planet Is Born"]]></title>
-            <description><![CDATA[<article><h1>OY -"A New Planet Is Born"</h1><p>"A New Planet Is Born" is the first excerpt from "Space Diaspora", the forthcoming new album by OY (out in September 2016) Available on iTunes : http://smarturl.it/anpb_itunes Live dates: http://www.oy-music.com/tour Imagery based on original art work "Void Season", courtesy of Zeitguised © 2016</p></article>]]></description>
+            <description><![CDATA[<article><h1>OY -"A New Planet Is Born"</h1><p>"A New Planet Is Born" is the first excerpt from "Space Diaspora", the forthcoming new album by OY (out in September 2016) Available on iTunes : http://smarturl.it/anpb_itunes Live dates: http://www.oy-music.com/tour Imagery based on original art work "Void Season", courtesy of Zeitguised © 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48af2230bcd3eefecad33f10737c859021474140.jpg"></article>]]></description>
             <link>https://vimeo.com/157991915</link>
             <guid isPermaLink="false">078616a3-b833-459c-aaa2-14bd78123f92</guid>
             <pubDate>Thu, 21 Apr 2016 18:49:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/02/amazon-fashion-private-label-brands/</link>
             <guid isPermaLink="false">57f22acf-f26d-424b-927b-38ca5a433b6b</guid>
             <pubDate>Wed, 02 Mar 2016 14:16:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rschamp/schamp-origami]]></title>
-            <description><![CDATA[<article><h1>rschamp/schamp-origami</h1><p>schamp-origami - A place to keep crease patterns</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bd6e127d39a58156f9a7e43aaae71206d99b2df.jpg"></article>]]></description>
-            <link>https://github.com/rschamp/schamp-origami</link>
-            <guid isPermaLink="false">8880f846-afec-4865-9f11-c2265e7b8457</guid>
-            <pubDate>Wed, 02 Mar 2016 01:30:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
