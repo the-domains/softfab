@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 11:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 11:01:50 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NeuroFashion label set up by Clement Ba...]]></title>
+            <description><![CDATA[<article><h1>NeuroFashion label set up by Clement Ba...</h1><p>NeuroFashion label set up by Clement Balavoine features collections which were designed with AAA game design tool used to create clothing for virtual characters: Neuro is a reflection on the present and future of the fashion industry. With recent evolution in the technological and digital world, the way we develop things and communicate is tremendously mutating.</p><img src="http://66.media.tumblr.com/5393caddba3ec6b19f642b7e2d99338e/tumblr_obrmg0FZCm1qav3uso1_500.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/148942162781</link>
+            <guid isPermaLink="false">802cdbd8-ac47-4c8a-95d0-5223f8bb9f82</guid>
+            <pubDate>Mon, 15 Aug 2016 11:01:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Disney Research " A Compiler for 3D Machine Knitting]]></title>
             <description><![CDATA[<article><h1>Disney Research " A Compiler for 3D Machine Knitting</h1><p>Industrial knitting machines can produce finely detailed, seamless, 3D surfaces quickly and without human intervention. However, the tools used to program them require detailed manipulation and understanding of low-level knitting operations. We present a compiler that can automatically turn assemblies of high-level shape primitives (tubes, sheets) into low-level machine instructions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70c1c0a809aa0fa3d7a8ea97c953ee63/croprotate.jpg?cropheight=1584&cropwidth=1085&degrees=0&input=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fdisneyresearch%2Fwp-content%2Fuploads%2F20160705213114%2FA-Compiler-for-3D-Machine-Knitting-Image.jpg&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.mensfashionmagazine.com/brand-spotlight-awl-sundry</link>
             <guid isPermaLink="false">54373249-1af8-494b-82d9-504212d7605d</guid>
             <pubDate>Fri, 04 Mar 2016 16:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="DOTI&colon; the desktop Jacquard Loom&colon; http&colon;&sol;&sol;pamelaliou&period;com&sol;doti&period;html &lt;&lt;&lt; by &commat;pamelaliou &num;computational &num;craft &num;weaving &num;arduino" src="https://pbs.twimg.com/media/CcpaBbVWIAA9SsD.png:large">]]></description>
-            <link>https://twitter.com/bitcraftlab/status/705475279888769025</link>
-            <guid isPermaLink="false">a0167163-5315-4979-b386-4b33889c9aef</guid>
-            <pubDate>Fri, 04 Mar 2016 15:52:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
