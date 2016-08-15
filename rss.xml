@@ -4,8 +4,15 @@
         <description><![CDATA[#softfab]]></description>
         <link>http://softfab.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 07:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 11:00:49 GMT</lastBuildDate>
         <atom:link href="http://softfab.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Disney Research " A Compiler for 3D Machine Knitting]]></title>
+            <description><![CDATA[<article><h1>Disney Research " A Compiler for 3D Machine Knitting</h1><p>Industrial knitting machines can produce finely detailed, seamless, 3D surfaces quickly and without human intervention. However, the tools used to program them require detailed manipulation and understanding of low-level knitting operations. We present a compiler that can automatically turn assemblies of high-level shape primitives (tubes, sheets) into low-level machine instructions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70c1c0a809aa0fa3d7a8ea97c953ee63/croprotate.jpg?cropheight=1584&cropwidth=1085&degrees=0&input=https%3A%2F%2Fs3-us-west-1.amazonaws.com%2Fdisneyresearch%2Fwp-content%2Fuploads%2F20160705213114%2FA-Compiler-for-3D-Machine-Knitting-Image.jpg&x=0&y=0"></article>]]></description>
+            <link>https://www.disneyresearch.com/publication/machine-knitting-compiler/</link>
+            <guid isPermaLink="false">b613a31a-f1ca-4198-aa91-33cdcc72cb3a</guid>
+            <pubDate>Mon, 15 Aug 2016 11:00:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Physics-Driven Pattern Adjustment for Direct 3D Garment Editing]]></title>
             <description><![CDATA[<article><h1>Physics-Driven Pattern Adjustment for Direct 3D Garment Editing</h1><p>Designers frequently reuse existing designs as a starting point for creating new garments. In order to apply garment modifications, which the designer envisions in 3D, existing tools require meticulous manual editing of 2D patterns. These 2D edits need to account both for the envisioned geometric changes in the 3D shape, as well as for various physical factors that affect the look of the draped garment.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0ac3107151a16ad5b766dc035066c7cd/croprotate.jpg?cropheight=720&cropwidth=1265&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FQmkK2TsymF0%2Fmaxresdefault.jpg&x=7&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/bitcraftlab/status/705475279888769025</link>
             <guid isPermaLink="false">a0167163-5315-4979-b386-4b33889c9aef</guid>
             <pubDate>Fri, 04 Mar 2016 15:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="5womenartists 3&sol;4&period; Margaret and Christine Wertheim Math&comma;art&comma;bio in the Crochet Coral Reef http&colon;&sol;&sol;crochetcoralreef&period;org&sol;" src="https://pbs.twimg.com/media/Cckd-8YUAAAdeZm.jpg:large">]]></description>
-            <link>https://twitter.com/GalaxyKate/status/705127784306208772</link>
-            <guid isPermaLink="false">43bdb2c8-3248-4d4d-91b2-a1d97701068b</guid>
-            <pubDate>Wed, 02 Mar 2016 20:46:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
